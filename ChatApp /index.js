@@ -15,7 +15,7 @@ app.use(express.static('website'));
 
 
 //Setting up socket
-var io = socket('server');
+var io = socket(server);
 io.on('connection', function(socket){
 
 console.log("ChatAppServer: backend server connection on");
