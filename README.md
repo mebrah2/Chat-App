@@ -6,16 +6,16 @@ the built environment is any text editor-however preferable  IDE
 
 ## Requirements
 
-* Text editor
+*  Text editor (any Text editor would be OK. Preferable IDE such Atom/IntelliJ IDEA...)
 * npm
-*Terminal (any IDE -integrated termina,l if you are using IDE)
+* Terminal (preferable IDE -integrated termina)
 
 
 ## Depenceny
 
-*express.
-*websocket
-*nodemon  (optional)
+* express.
+* websocket
+* nodemon  (optional)
 
 
 ## Description
